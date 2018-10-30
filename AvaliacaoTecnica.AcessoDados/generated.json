@@ -1,0 +1,207 @@
+[
+  {
+    "_id": "5bd11688be9c61f5f4deecd9",
+    "nome": "Janela",
+    "preco": 318.24,
+    "marca": [
+      {
+        "id": "5bd11688da7219e04764e6b2",
+        "codigo": "bae3572a-e7ed-4463-ac3a-94fa8e03eb22",
+        "nome": "Stephens"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688b7c3a4dde26cd7cc",
+    "nome": "Porta",
+    "preco": 241.46,
+    "marca": [
+      {
+        "id": "5bd11688d255e91965f87146",
+        "codigo": "e11d7824-c7fc-4c44-9fdd-cc217f7dbf51",
+        "nome": "Flynn"
+      }
+    ]
+  },
+  {
+    "_id": "5bd116889512531e580b5bee",
+    "nome": "Piso",
+    "preco": 299.07,
+    "marca": [
+      {
+        "id": "5bd1168839bb80c64401d0f6",
+        "codigo": "def64332-9d12-49a0-832a-738727445458",
+        "nome": "Shannon"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168841012938639dfd5b",
+    "nome": "Torneira",
+    "preco": 350.45,
+    "marca": [
+      {
+        "id": "5bd11688e6632884766af3d4",
+        "codigo": "253fde91-79ae-46a3-90d7-c991dbf83c0a",
+        "nome": "Camille"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168840fcdb49301daf9f",
+    "nome": "Mangueira",
+    "preco": 228.21,
+    "marca": [
+      {
+        "id": "5bd11688214f4e2afdc60e25",
+        "codigo": "8e00bf57-b2b1-412b-ac83-ae9a6089bc12",
+        "nome": "Riddle"
+      }
+    ]
+  },
+  {
+    "_id": "5bd116885fa5232dd1972575",
+    "nome": "Lampada",
+    "preco": 158.61
+    ",
+    "marca": [
+      {
+        "id": "5bd11688025a6b6823ac47e0",
+        "codigo": "cccc4196-405a-44a4-aecd-481ca949a10c",
+        "nome": "Mccarthy"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688176f2bba152b34cf",
+    "nome": "Parafuso",
+    "preco": 139.25,
+    "marca": [
+      {
+        "id": "5bd116882c0e9c38d2499f9d",
+        "codigo": "4ad0b142-2c3f-4a66-9851-d5be5b0da810",
+        "nome": "Christa"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688b149223e33afa427",
+    "nome": "Portão",
+    "preco": 164.95,
+    "marca": [
+      {
+        "id": "5bd116889ce60d0b8cd704e6",
+        "codigo": "32e80055-5816-4194-b85e-c2d3f8685f60",
+        "nome": "Whitaker"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688ab657223e12e2304",
+    "nome": "Ferro",
+    "preco": 211.44,
+    "marca": [
+      {
+        "id": "5bd11688e8fae215a5583905",
+        "codigo": "00f4b0af-40db-4945-a3cd-bd9fd6aea4d0",
+        "nome": "Bruce"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688a35d6f28aefc3b0d",
+    "nome": "Tinta",
+    "preco": 143.32,
+    "marca": [
+      {
+        "id": "5bd1168811bcaf74275911f3",
+        "codigo": "426478d7-0e11-42f7-8c47-f3fb4b8f48f9",
+        "nome": "Sanders"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168848aa751cc5c737e9",
+    "nome": "Martelo",
+    "preco": 367.66,
+    "marca": [
+      {
+        "id": "5bd11688cc610cc511429c57",
+        "codigo": "b9760fef-5d7c-4fb1-a651-2b692cb5a567",
+        "nome": "Hayes"
+      }
+    ]
+  },
+  {
+    "_id": "5bd11688ea910b2e967c82ae",
+    "nome": "Arame",
+    "preco": 215.14,
+    "marca": [
+      {
+        "id": "5bd11688f196a96643372a56",
+        "codigo": "fe028df8-91e0-4aa4-b791-5059d4471922",
+        "nome": "Rachel"
+      }
+    ]
+  },
+  {
+    "_id": "5bd116889832a4897813788f",
+    "nome": "Carrinho",
+    "preco": 138.83,
+    "marca": [
+      {
+        "id": "5bd11688127ef7a95f841054",
+        "codigo": "66bcdae5-45e2-4a88-88b2-a08ac8ea2348",
+        "nome": "Tyler"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168886af7f710c1ceee2",
+    "nome": "Pincel",
+    "preco": 124.71,
+    "marca": [
+      {
+        "id": "5bd116885d678ce9c289b12d",
+        "codigo": "ad09b2db-d081-4396-95a9-ee4e112e3ff7",
+        "nome": "Valentine"
+      }
+    ]
+  },
+  {
+    "_id": "5bd116888d9c848f18b1c2be",
+    "nome": "Balde",
+    "preco": 205.75,
+    "marca": [
+      {
+        "id": "5bd11688957e81279cb255d3",
+        "codigo": "9064e977-7baa-4143-b764-1f2182cec931",
+        "nome": "Kim"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168850766c716e1fca6c",
+    "nome": "Furadeira",
+    "preco": 191.50,
+    "marca": [
+      {
+        "id": "5bd116888af4a9de2624ddb8",
+        "codigo": "dd600659-2ae3-4c39-ae61-0fd5517a46e5",
+        "nome": "Marina"
+      }
+    ]
+  },
+  {
+    "_id": "5bd1168813238c5b52e240ee",
+    "nome": "Chuveiro",
+    "preco": 291.99,
+    "marca": [
+      {
+        "id": "5bd1168867899fa2cb252a73",
+        "codigo": "f7e33dd3-d17f-4763-b0e1-1fad9d29c88e",
+        "nome": "Isabelle"
+      }
+    ]
+  }
+]

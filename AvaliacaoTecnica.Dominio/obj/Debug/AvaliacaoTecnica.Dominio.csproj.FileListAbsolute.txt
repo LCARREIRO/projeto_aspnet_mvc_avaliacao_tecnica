@@ -1,0 +1,6 @@
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\bin\Debug\AvaliacaoTecnica.Dominio.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\bin\Debug\AvaliacaoTecnica.Dominio.pdb
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\obj\Debug\AvaliacaoTecnica.Dominio.csprojAssemblyReference.cache
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\obj\Debug\AvaliacaoTecnica.Dominio.csproj.CoreCompileInputs.cache
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\obj\Debug\AvaliacaoTecnica.Dominio.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.Dominio\obj\Debug\AvaliacaoTecnica.Dominio.pdb

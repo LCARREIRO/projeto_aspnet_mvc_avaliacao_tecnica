@@ -1,0 +1,11 @@
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\AvaliacaoTecnica.AcessoDados.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\AvaliacaoTecnica.AcessoDados.pdb
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\obj\Debug\AvaliacaoTecnica.AcessoDados.csprojAssemblyReference.cache
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\obj\Debug\AvaliacaoTecnica.AcessoDados.csproj.CoreCompileInputs.cache
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\obj\Debug\AvaliacaoTecnica.AcessoDados.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\obj\Debug\AvaliacaoTecnica.AcessoDados.pdb
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\AvaliacaoTecnica.Dominio.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\Newtonsoft.Json.dll
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\AvaliacaoTecnica.Dominio.pdb
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\bin\Debug\Newtonsoft.Json.xml
+C:\DotNet\Projeto\AvaliacaoTecnica\AvaliacaoTecnica.AcessoDados\obj\Debug\AvaliacaoTecnica.AcessoDados.csproj.CopyComplete
